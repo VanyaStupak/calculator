@@ -4,7 +4,24 @@
 class Calculator
 {
     public:
-
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
+//lalalal
         int Add (double, double);
         int Sub (double, double);
 
